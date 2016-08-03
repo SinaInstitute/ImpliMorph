@@ -34,6 +34,6 @@ The possible values are:
 * 1: Word 1 implies word 2
 * 2: Word 2 implies word 1
 * 3: The words are an exact match [Implication Distance] is the distance between the two words [Count of Conflicts] is the number of conflicting diacritics between the two words
-Downloads
-The program and its source code can be downloaded by clicking here.
-The test case and its results can also be downloaded by clicking here.
+
+
+NOTE: To calculate the morphological distance, you must have the ALMOR Arabic morphological analyzer along with the SAMA database
