@@ -1,7 +1,7 @@
 # ﻿Implicheck
 
 
-ImpliCheck is a program dedicated to providing an answer as to whether two words are related to each other. The answer is calculated by assigning a two possible types of relations:
+ImpliCheck is a program dedicated to providing an answer as to whether two Arabic words are related to each other. The answer is calculated by assigning a two possible types of relations:
 * Correct - There is a clear relation between the two words
 * Not Found - There is no relation between the two words
 For each relation type, we offer a level of certainty of the answer. The levels are:
