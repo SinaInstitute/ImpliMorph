@@ -58,3 +58,10 @@ The possible values are:
 
 
 NOTE: To calculate the morphological distance, you must have the ALMOR Arabic morphological analyzer along with the SAMA database
+
+Contributors:
+1. Mustafa Jarrar, Birzeit University, Palestine.
+2. Fadi Zaraket, American University, Lebanon.
+3. Rami Asia, Birzeit University, Palestine.
+4. Mohammad Dwaikat, Birzeit University, Palestine.
+5. Hamzeh Amayreh, Birzeit University, Palestine.
